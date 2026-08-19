@@ -103,16 +103,19 @@ Transactions were classified into:
 
 ## Validation Workflow
 
-![](./screenshots/validation-workflow.png)
+![](<img width="1547" height="665" alt="validation-workflow" src="https://github.com/user-attachments/assets/c78ffd56-c111-4d02-9539-ba8211a0c2fa" />
+)
 
 ---
 
 ## Exception Queue
 
-![](./screenshots/exception-queue.png)
+![](<img width="1585" height="680" alt="exception-queue" src="https://github.com/user-attachments/assets/fc81bc8d-2c31-48be-a29b-2be2e86b40cd" />
+)
 
 ---
 
 ## Control Dashboard
 
-![](./screenshots/control-dashboard.png)
+![]()<img width="1791" height="465" alt="control-dashboard" src="https://github.com/user-attachments/assets/2585f280-21b5-4ff4-abef-576caca995fc" />
+
