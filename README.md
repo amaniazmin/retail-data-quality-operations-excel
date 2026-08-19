@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-An Excel-based data operations workflow designed to validate, investigate, reconcile, and prepare retail transaction data before downstream processing.
+An Excel-based retail data operations workflow developed using a real-world retail transaction dataset.
+
+The workflow validates, investigates, reconciles, and prepares transaction data before downstream processing.
 
 ---
 
@@ -83,31 +85,34 @@ Transactions were classified into:
 - Data Validation
 - Data Quality
 - Exception Management
+- Data Cleansing
+- Duplicate Detection
 - IF Statements
 - COUNTIF
-- Data Cleansing
 - Pivot Tables
 - Dashboard Development
 - Operational Reporting
 
 ---
 
-## Project Files
+## Excel Workbook
 
-[Excel Workbook](./excel/retail_data_operations_control.xlsx)
+[📊 Download the workbook](./excel/retail_data_operations_control.xlsx)
 
 ---
 
-## Screenshots
+## Validation Workflow
 
-### Validation Workflow
+![](./screenshots/validation-workflow.png)
 
-![Validation Workflow](./screenshots/validation-workflow.png)
+---
 
-### Exception Queue
+## Exception Queue
 
-![Exception Queue](./screenshots/exception-queue.png)
+![](./screenshots/exception-queue.png)
 
-### Control Dashboard
+---
 
-![Control Dashboard](./screenshots/control-dashboard.png)
+## Control Dashboard
+
+![](./screenshots/control-dashboard.png)
